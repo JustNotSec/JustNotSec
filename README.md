@@ -5,13 +5,13 @@
 
 - I’m Currently Working On [Masshive Media](https://masshive-media.com/)
 
-- 🌱 I’m currently learning **Perl And Ruby**
+- 🌱 I’m currently learning **Lua And Svelte**
 
-- 🤝 I’m looking for help with [kamae community](https://kamaecommunity.xyz/)
+- 🤝 I’m looking for help with [EXTERNAL COMMUNITY](https://kotaexternal.id/)
 
 - 💬 Ask Me About **Bug Hunting And Web Development**
 
-- 📫 How To Contact Me? **onsec@kamaecommunity.xyz**
+- 📫 How To Contact Me? **justnotsec@gmail.com**
 
 - ⚡ Fun fact **Im A Freak Humans**
 
