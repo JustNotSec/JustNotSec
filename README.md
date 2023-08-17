@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Malik</h1>
-<h3 align="center">A Passionate Bug Hunting And Backend Developer From Indonesia</h3>
+<h3 align="center">A Passionate Bug Hunting And Javascript Scripter From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onsecure404&label=Profile%20views&color=0e75b6&style=flat" alt="onsecure404" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [EXTERNAL COMMUNITY](https://kotaexternal.id/)
 
-- 💬 Ask Me About **Bug Hunting And Web Development**
+- 💬 Ask Me About **Cyber Security**
 
 - 📫 How To Contact Me? **justnotsec@gmail.com**
 
