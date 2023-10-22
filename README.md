@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Network Security And Infrastructure Security**
 
-- 🤝 I’m currently Build On My Start Up[TriHexaSoft's Tech](https://trihexasofttech.my.id/)
+- 🤝 I’m currently Build On My Start Up [TriHexaSoft's Tech](https://trihexasofttech.my.id/)
 
 - 💬 Ask Me About **Cyber Security**
 
