@@ -11,7 +11,7 @@
 
 - 💬 Ask Me About **Cyber Security**
 
-- 📫 How To Contact Me? **justnotsec@gmail.com**
+- 📫 How To Contact Me? **justnotsec@linuxhacking.or.id**
 
 - ⚡ Fun fact **Im A Freak Humans**
 
