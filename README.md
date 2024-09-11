@@ -32,6 +32,7 @@
 | - Gained hands-on expirience in server configuration with linux kernel based, including test and deploy project | - Gained hands-on expirience in server configuration with linux kernel based, including firewall and project deployement |
 ---
 | <b><a href=""> Linuxhackingid </a> as Cyber Security Instructor</b> |
+| :--- |
 | - Basic Web Exploitation Instructor |
 | - Learning About Cybersecurity Instructor |
 | - How To Exploit Some Website Instructor |
