@@ -30,7 +30,12 @@
 | - Collaborated with senior developers and main team to discuss about bug fixing, best practice and resolve coding issues                | - Collaborated with senior Cybersecurity analys to troubleshoot and resolve project issues such as security error, server error, and database error |
 | - Contributed to the creation of project documentation including progress of issue, and code documentation | - Contributed to the creation of project documentation including instalation project, common issue, and code documentation |
 | - Gained hands-on expirience in server configuration with linux kernel based, including test and deploy project | - Gained hands-on expirience in server configuration with linux kernel based, including firewall and project deployement |
-
+| <a href=""> Linuxhackingid </a> as Cyber Security Instructor |
+| :----
+| - Basic Web Exploitation Instructor
+| - Learning About Cybersecurity Instructor
+| - How To Exploit Some Website Instructor
+| - Founder And Piooner Linuxhackingid
 ---
 
 
