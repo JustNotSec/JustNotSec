@@ -21,6 +21,19 @@
 <a href="https://www.hackerrank.com/onsecure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="onsecure" height="30" width="40" /></a>
 </p>
 
+## 💼 Experience:
+
+| <a href="https://github.com/softegra-sinergi">Braincode</a> as Backend Dev    | <a href="https://github.com/puskomedia">Puskomedia</a> as Backend Dev    |
+| :---                                                                                | :---                                                                     |
+| - Assisted in the development of web applications using rust and solidjs     | - Assisted in the development of web applications using Laravel          |
+| - Gained hands-on experience in database design on postgreSQL server                 | - Gained hands-on experience in database design and optimization techniques using ORM and Builder |
+| - Collaborated with senior developers and main team to discuss about bug fixing, best practice and resolve coding issues                | - Collaborated with senior developers to troubleshoot and resolve project issues such as code error, server error, and database error |
+| - Contributed to the creation of project documentation including progress of issue, and code documentation | - Contributed to the creation of project documentation including instalation project, common issue, and code documentation |
+| - Gained hands-on expirience in server configuration with linux kernel based, including test and deploy project | - Gained hands-on expirience in server configuration with linux kernel based, including firewall and project deployement |
+
+---
+
+
 #### Achivement: [My Certificate](https://drive.google.com/drive/folders/1k4cJg_F8V8Kwaor2pk9Qmi4kgy8T8JIL?usp=drive_link)
 
 <h3 align="left">Languages and Tools:</h3>
