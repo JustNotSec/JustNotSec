@@ -33,10 +33,10 @@
 ---
 | <b><a href=""> Linuxhackingid </a> as Cyber Security Instructor</b> | <b><a href=""> Aws Cloud Club Indonesia </a> as Sysops </b> 
 | :---                                                                | :---
-| - Basic Web Exploitation Instructor |                               | - Handling Main Server On AWS
-| - Learning About Cybersecurity Instructor |                         | - Troubleshooting Server And Resolve Project Issues such as security
-| - How To Exploit Some Website Instructor |                          | - Researcher And Development
-| - Founder And Piooner Linuxhackingid |
+| - Basic Web Exploitation Instructor                                | - Handling Main Server On AWS
+| - Learning About Cybersecurity Instructor                          | - Troubleshooting Server And Resolve Project Issues such as security
+| - How To Exploit Some Website Instructor                           | - Researcher And Development
+| - Founder And Piooner Linuxhackingid 
 ---
 
 
