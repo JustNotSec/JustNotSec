@@ -31,11 +31,11 @@
 | - Contributed to the creation of project documentation including progress of issue, and code documentation | - Contributed to the creation of project documentation including instalation project, common issue, and code documentation |
 | - Gained hands-on expirience in server configuration with linux kernel based, including test and deploy project | - Gained hands-on expirience in server configuration with linux kernel based, including firewall and project deployement |
 ---
-| <b><a href=""> Linuxhackingid </a> as Cyber Security Instructor</b> |
-| :--- |
-| - Basic Web Exploitation Instructor |
-| - Learning About Cybersecurity Instructor |
-| - How To Exploit Some Website Instructor |
+| <b><a href=""> Linuxhackingid </a> as Cyber Security Instructor</b> | <b><a href=""> Aws Cloud Club Indonesia </a> as Sysops </b> 
+| :---                                                                | :---
+| - Basic Web Exploitation Instructor |                               | - Handling Main Server On AWS
+| - Learning About Cybersecurity Instructor |                         | - Troubleshooting Server And Resolve Project Issues such as security
+| - How To Exploit Some Website Instructor |                          | - Researcher And Development
 | - Founder And Piooner Linuxhackingid |
 ---
 
