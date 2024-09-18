@@ -36,7 +36,7 @@
 | - Basic Web Exploitation Instructor                                | - Handling Main Server On AWS
 | - Learning About Cybersecurity Instructor                          | - Troubleshooting Server And Resolve Project Issues such as security
 | - How To Exploit Some Website Instructor                           | - Researcher And Development
-| - Founder And Piooner Linuxhackingid 
+| - Founder And Piooner Linuxhackingid |
 ---
 
 
