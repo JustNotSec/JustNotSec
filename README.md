@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onsecure404&label=Profile%20views&color=0e75b6&style=flat" alt="onsecure404" /> </p>
 
-- 💻 I’m Working On My Team [Linuxhackingid](https://linuxhacking.or.id/)
+- 💻 I’m Working On My Team [Linuxhackingid](https://linuxhacking.com/)
 
 - 🌱 I’m currently learning **Network Security And Infrastructure Security**
 
-- 🤝 I’m currently Build On My Start Up [TriHexaSoft's Tech](https://trihexasofttech.my.id/)
+- 🤝 I’m currently Build On My Start Up [NetaxaBytes (Coming Soon)]()
 
 - 💬 Ask Me About **Cyber Security**
 
