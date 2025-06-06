@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Network Security And Infrastructure Security**
 
-- 🤝 I’m currently Build On My Start Up [NetaxaBytes (Coming Soon)]()
+- 🤝 I’m currently Build On My Start Up [Javabytes](https://javabytes.id)
 
 - 💬 Ask Me About **Cyber Security**
 
