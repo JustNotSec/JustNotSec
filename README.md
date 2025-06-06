@@ -23,7 +23,7 @@
 
 ## 💼 Experience:
 
-| <a href="">External City</a> as Game Dev    | <a href="https://github.com/puskomedia">Masshive Media</a> as Cybersecurity Analys    |
+| <a href="">External City</a> as Game Dev    | <a href="https://github.com/puskomedia">Masshive Media</a> as Cybersecurity Analyst    |
 | :---                                                                                | :---                                                                     |
 | - Server Development Fivem GTA V Roleplay     | - Assisted in the security maintain          |
 | - Lua Scripting And handled Security                 | - Gained hands-on experience in security |
