@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.com/onsecure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="onsecure" height="30" width="40" /></a>
+<a href="https://app.intigriti.com/researcher/profile/justnotsec" target="blank"><img align="center" src="https://www.svgrepo.com/show/330708/intigriti.svg" alt="onsecure" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/onsecure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="onsecure" height="30" width="40" /></a>
 </p>
 
